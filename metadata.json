@@ -1,0 +1,6 @@
+{
+  "name": "Global Success 8 AI Mentor",
+  "description": "Chuyên gia giáo dục AI và bạn đồng hành luyện tiếng Anh lớp 8 bám sát 12 Units SGK Global Success với SRS, AI Speaking Buddy, quét OCR và đấu trường PvP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
